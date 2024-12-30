@@ -1,4 +1,3 @@
-# Clootrack-Assessment-
 # Clootrack Data Analysis Assessment
 
 This repository contains the data analysis project conducted by **Lalit Kumar Paila**. The objective was to extract meaningful insights from customer reviews using Python-based data analysis techniques.
