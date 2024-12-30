@@ -70,8 +70,4 @@ This repository contains the data analysis project conducted by **Lalit Kumar Pa
 
 ---
 
-## How to Run the Code
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
